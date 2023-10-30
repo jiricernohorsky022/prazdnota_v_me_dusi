@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-prazdnota_v_me_dusi",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
